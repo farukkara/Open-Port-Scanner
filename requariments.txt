@@ -1,0 +1,3 @@
+This script uses the socket module to create a socket connection to a specified host and port, and checks the return value of the connect_ex() method to determine if the port is open or closed. You can adjust the start_port and end_port variable as per your requirement. Also, you can add some extra feature like saving the result to a file, more user-friendly output, multi-threading and etc.
+
+Please note that port scanning can be illegal if you don't have permission from the host owner.
